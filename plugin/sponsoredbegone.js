@@ -5,4 +5,4 @@ window.setInterval(function() {
       taglines[i].closest('li').style.display = 'none';
     }
   }
-}, 1000);
+}, 2000);
